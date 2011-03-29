@@ -838,19 +838,30 @@
 		CD4069FC123C1B41006B068B /* AboutController.xib in Resources */ = {isa = PBXBuildFile; fileRef = CD4069F8123C1B41006B068B /* AboutController.xib */; };
 		CD4069FD123C1B41006B068B /* RecordController.xib in Resources */ = {isa = PBXBuildFile; fileRef = CD4069F9123C1B41006B068B /* RecordController.xib */; };
 		CD4069FE123C1B41006B068B /* SetupController.xib in Resources */ = {isa = PBXBuildFile; fileRef = CD4069FA123C1B41006B068B /* SetupController.xib */; };
-		CD406A20123C1B73006B068B /* LogoMoogu.png in Resources */ = {isa = PBXBuildFile; fileRef = CD406A02123C1B73006B068B /* LogoMoogu.png */; };
-		CD406A21123C1B73006B068B /* mathOrDie-about.png in Resources */ = {isa = PBXBuildFile; fileRef = CD406A03123C1B73006B068B /* mathOrDie-about.png */; };
-		CD406A23123C1B73006B068B /* mathOrDie-setup.png in Resources */ = {isa = PBXBuildFile; fileRef = CD406A05123C1B73006B068B /* mathOrDie-setup.png */; };
-		CD406A25123C1B73006B068B /* Icon.png in Resources */ = {isa = PBXBuildFile; fileRef = CD406A07123C1B73006B068B /* Icon.png */; };
-		CD406A30123C1B73006B068B /* arrow-answer-selected.png in Resources */ = {isa = PBXBuildFile; fileRef = CD406A12123C1B73006B068B /* arrow-answer-selected.png */; };
-		CD406A31123C1B73006B068B /* arrow-answer.png in Resources */ = {isa = PBXBuildFile; fileRef = CD406A13123C1B73006B068B /* arrow-answer.png */; };
-		CD406A32123C1B73006B068B /* back-red.png in Resources */ = {isa = PBXBuildFile; fileRef = CD406A14123C1B73006B068B /* back-red.png */; };
-		CD406A33123C1B73006B068B /* back-white.png in Resources */ = {isa = PBXBuildFile; fileRef = CD406A15123C1B73006B068B /* back-white.png */; };
-		CD406A35123C1B73006B068B /* mathOrDie-game.png in Resources */ = {isa = PBXBuildFile; fileRef = CD406A17123C1B73006B068B /* mathOrDie-game.png */; };
-		CD406A36123C1B73006B068B /* mathOrDie-highScores-select.png in Resources */ = {isa = PBXBuildFile; fileRef = CD406A18123C1B73006B068B /* mathOrDie-highScores-select.png */; };
-		CD406A37123C1B73006B068B /* mathOrDie-setup-selection.png in Resources */ = {isa = PBXBuildFile; fileRef = CD406A19123C1B73006B068B /* mathOrDie-setup-selection.png */; };
-		CD406A3D123C1B73006B068B /* Default.png in Resources */ = {isa = PBXBuildFile; fileRef = CD406A1F123C1B73006B068B /* Default.png */; };
 		CD406A49123C1CFD006B068B /* MathOrDieViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = CD406A48123C1CFD006B068B /* MathOrDieViewController.xib */; };
+		CD54F64C134284F800BBC340 /* 0.png in Resources */ = {isa = PBXBuildFile; fileRef = CD54F642134284F800BBC340 /* 0.png */; };
+		CD54F64D134284F800BBC340 /* 1.png in Resources */ = {isa = PBXBuildFile; fileRef = CD54F643134284F800BBC340 /* 1.png */; };
+		CD54F64E134284F800BBC340 /* 2.png in Resources */ = {isa = PBXBuildFile; fileRef = CD54F644134284F800BBC340 /* 2.png */; };
+		CD54F64F134284F800BBC340 /* 3.png in Resources */ = {isa = PBXBuildFile; fileRef = CD54F645134284F800BBC340 /* 3.png */; };
+		CD54F650134284F800BBC340 /* 4.png in Resources */ = {isa = PBXBuildFile; fileRef = CD54F646134284F800BBC340 /* 4.png */; };
+		CD54F651134284F800BBC340 /* 5.png in Resources */ = {isa = PBXBuildFile; fileRef = CD54F647134284F800BBC340 /* 5.png */; };
+		CD54F652134284F800BBC340 /* 6.png in Resources */ = {isa = PBXBuildFile; fileRef = CD54F648134284F800BBC340 /* 6.png */; };
+		CD54F653134284F800BBC340 /* 7.png in Resources */ = {isa = PBXBuildFile; fileRef = CD54F649134284F800BBC340 /* 7.png */; };
+		CD54F654134284F800BBC340 /* 8.png in Resources */ = {isa = PBXBuildFile; fileRef = CD54F64A134284F800BBC340 /* 8.png */; };
+		CD54F655134284F800BBC340 /* 9.png in Resources */ = {isa = PBXBuildFile; fileRef = CD54F64B134284F800BBC340 /* 9.png */; };
+		CD54F6631342851900BBC340 /* mathOrDie-about.png in Resources */ = {isa = PBXBuildFile; fileRef = CD54F6561342851900BBC340 /* mathOrDie-about.png */; };
+		CD54F6641342851900BBC340 /* mathOrDie-base.png in Resources */ = {isa = PBXBuildFile; fileRef = CD54F6571342851900BBC340 /* mathOrDie-base.png */; };
+		CD54F6651342851900BBC340 /* mathOrDie-game.png in Resources */ = {isa = PBXBuildFile; fileRef = CD54F6581342851900BBC340 /* mathOrDie-game.png */; };
+		CD54F6661342851900BBC340 /* mathOrDie-highScores-select.png in Resources */ = {isa = PBXBuildFile; fileRef = CD54F6591342851900BBC340 /* mathOrDie-highScores-select.png */; };
+		CD54F6671342851900BBC340 /* mathOrDie-highScores.png in Resources */ = {isa = PBXBuildFile; fileRef = CD54F65A1342851900BBC340 /* mathOrDie-highScores.png */; };
+		CD54F6681342851900BBC340 /* Default.png in Resources */ = {isa = PBXBuildFile; fileRef = CD54F65B1342851900BBC340 /* Default.png */; };
+		CD54F6691342851900BBC340 /* mathOrDie-setup-selection.png in Resources */ = {isa = PBXBuildFile; fileRef = CD54F65C1342851900BBC340 /* mathOrDie-setup-selection.png */; };
+		CD54F66A1342851900BBC340 /* mathOrDie-setup.png in Resources */ = {isa = PBXBuildFile; fileRef = CD54F65D1342851900BBC340 /* mathOrDie-setup.png */; };
+		CD54F66B1342851900BBC340 /* mathOrDie.png in Resources */ = {isa = PBXBuildFile; fileRef = CD54F65E1342851900BBC340 /* mathOrDie.png */; };
+		CD54F66C1342851900BBC340 /* minus.png in Resources */ = {isa = PBXBuildFile; fileRef = CD54F65F1342851900BBC340 /* minus.png */; };
+		CD54F66D1342851900BBC340 /* multiply.png in Resources */ = {isa = PBXBuildFile; fileRef = CD54F6601342851900BBC340 /* multiply.png */; };
+		CD54F66E1342851900BBC340 /* plus.png in Resources */ = {isa = PBXBuildFile; fileRef = CD54F6611342851900BBC340 /* plus.png */; };
+		CD54F66F1342851900BBC340 /* sum.png in Resources */ = {isa = PBXBuildFile; fileRef = CD54F6621342851900BBC340 /* sum.png */; };
 		CD9B8A9C125A6E1C0099ADD0 /* libAdMobNoThumb.a in Frameworks */ = {isa = PBXBuildFile; fileRef = CD9B8A9B125A6E1C0099ADD0 /* libAdMobNoThumb.a */; };
 		CD9B8ABE125A6F420099ADD0 /* AudioToolbox.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CD9B8ABD125A6F420099ADD0 /* AudioToolbox.framework */; };
 		CD9B8AC2125A6F530099ADD0 /* MediaPlayer.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CD9B8AC1125A6F530099ADD0 /* MediaPlayer.framework */; };
@@ -2194,19 +2205,30 @@
 		CD4069F8123C1B41006B068B /* AboutController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = AboutController.xib; sourceTree = "<group>"; };
 		CD4069F9123C1B41006B068B /* RecordController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = RecordController.xib; sourceTree = "<group>"; };
 		CD4069FA123C1B41006B068B /* SetupController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = SetupController.xib; sourceTree = "<group>"; };
-		CD406A02123C1B73006B068B /* LogoMoogu.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = LogoMoogu.png; path = "../MathOrDie-1.0/LogoMoogu.png"; sourceTree = SOURCE_ROOT; };
-		CD406A03123C1B73006B068B /* mathOrDie-about.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "mathOrDie-about.png"; path = "../MathOrDie-1.0/mathOrDie-about.png"; sourceTree = SOURCE_ROOT; };
-		CD406A05123C1B73006B068B /* mathOrDie-setup.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "mathOrDie-setup.png"; path = "../MathOrDie-1.0/mathOrDie-setup.png"; sourceTree = SOURCE_ROOT; };
-		CD406A07123C1B73006B068B /* Icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Icon.png; path = "../MathOrDie-1.0/Icon.png"; sourceTree = SOURCE_ROOT; };
-		CD406A12123C1B73006B068B /* arrow-answer-selected.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "arrow-answer-selected.png"; path = "../MathOrDie-1.0/arrow-answer-selected.png"; sourceTree = SOURCE_ROOT; };
-		CD406A13123C1B73006B068B /* arrow-answer.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "arrow-answer.png"; path = "../MathOrDie-1.0/arrow-answer.png"; sourceTree = SOURCE_ROOT; };
-		CD406A14123C1B73006B068B /* back-red.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "back-red.png"; path = "../MathOrDie-1.0/back-red.png"; sourceTree = SOURCE_ROOT; };
-		CD406A15123C1B73006B068B /* back-white.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "back-white.png"; path = "../MathOrDie-1.0/back-white.png"; sourceTree = SOURCE_ROOT; };
-		CD406A17123C1B73006B068B /* mathOrDie-game.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "mathOrDie-game.png"; path = "../MathOrDie-1.0/mathOrDie-game.png"; sourceTree = SOURCE_ROOT; };
-		CD406A18123C1B73006B068B /* mathOrDie-highScores-select.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "mathOrDie-highScores-select.png"; path = "../MathOrDie-1.0/mathOrDie-highScores-select.png"; sourceTree = SOURCE_ROOT; };
-		CD406A19123C1B73006B068B /* mathOrDie-setup-selection.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "mathOrDie-setup-selection.png"; path = "../MathOrDie-1.0/mathOrDie-setup-selection.png"; sourceTree = SOURCE_ROOT; };
-		CD406A1F123C1B73006B068B /* Default.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Default.png; path = "../MathOrDie-1.0/Resources/Default.png"; sourceTree = SOURCE_ROOT; };
 		CD406A48123C1CFD006B068B /* MathOrDieViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = MathOrDieViewController.xib; sourceTree = "<group>"; };
+		CD54F642134284F800BBC340 /* 0.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 0.png; sourceTree = "<group>"; };
+		CD54F643134284F800BBC340 /* 1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 1.png; sourceTree = "<group>"; };
+		CD54F644134284F800BBC340 /* 2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 2.png; sourceTree = "<group>"; };
+		CD54F645134284F800BBC340 /* 3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 3.png; sourceTree = "<group>"; };
+		CD54F646134284F800BBC340 /* 4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 4.png; sourceTree = "<group>"; };
+		CD54F647134284F800BBC340 /* 5.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 5.png; sourceTree = "<group>"; };
+		CD54F648134284F800BBC340 /* 6.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 6.png; sourceTree = "<group>"; };
+		CD54F649134284F800BBC340 /* 7.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 7.png; sourceTree = "<group>"; };
+		CD54F64A134284F800BBC340 /* 8.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 8.png; sourceTree = "<group>"; };
+		CD54F64B134284F800BBC340 /* 9.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 9.png; sourceTree = "<group>"; };
+		CD54F6561342851900BBC340 /* mathOrDie-about.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "mathOrDie-about.png"; sourceTree = "<group>"; };
+		CD54F6571342851900BBC340 /* mathOrDie-base.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "mathOrDie-base.png"; sourceTree = "<group>"; };
+		CD54F6581342851900BBC340 /* mathOrDie-game.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "mathOrDie-game.png"; sourceTree = "<group>"; };
+		CD54F6591342851900BBC340 /* mathOrDie-highScores-select.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "mathOrDie-highScores-select.png"; sourceTree = "<group>"; };
+		CD54F65A1342851900BBC340 /* mathOrDie-highScores.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "mathOrDie-highScores.png"; sourceTree = "<group>"; };
+		CD54F65B1342851900BBC340 /* Default.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Default.png; sourceTree = "<group>"; };
+		CD54F65C1342851900BBC340 /* mathOrDie-setup-selection.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "mathOrDie-setup-selection.png"; sourceTree = "<group>"; };
+		CD54F65D1342851900BBC340 /* mathOrDie-setup.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "mathOrDie-setup.png"; sourceTree = "<group>"; };
+		CD54F65E1342851900BBC340 /* mathOrDie.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = mathOrDie.png; sourceTree = "<group>"; };
+		CD54F65F1342851900BBC340 /* minus.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = minus.png; sourceTree = "<group>"; };
+		CD54F6601342851900BBC340 /* multiply.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = multiply.png; sourceTree = "<group>"; };
+		CD54F6611342851900BBC340 /* plus.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = plus.png; sourceTree = "<group>"; };
+		CD54F6621342851900BBC340 /* sum.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = sum.png; sourceTree = "<group>"; };
 		CD9B8A95125A6DB50099ADD0 /* AdMobDelegateProtocol.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AdMobDelegateProtocol.h; sourceTree = "<group>"; };
 		CD9B8A96125A6DB50099ADD0 /* AdMobInterstitialAd.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AdMobInterstitialAd.h; sourceTree = "<group>"; };
 		CD9B8A97125A6DB50099ADD0 /* AdMobInterstitialDelegateProtocol.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AdMobInterstitialDelegateProtocol.h; sourceTree = "<group>"; };
@@ -5449,20 +5471,31 @@
 		CD4069FF123C1B49006B068B /* Images */ = {
 			isa = PBXGroup;
 			children = (
+				CD54F6561342851900BBC340 /* mathOrDie-about.png */,
+				CD54F6571342851900BBC340 /* mathOrDie-base.png */,
+				CD54F6581342851900BBC340 /* mathOrDie-game.png */,
+				CD54F6591342851900BBC340 /* mathOrDie-highScores-select.png */,
+				CD54F65A1342851900BBC340 /* mathOrDie-highScores.png */,
+				CD54F65B1342851900BBC340 /* Default.png */,
+				CD54F65C1342851900BBC340 /* mathOrDie-setup-selection.png */,
+				CD54F65D1342851900BBC340 /* mathOrDie-setup.png */,
+				CD54F65E1342851900BBC340 /* mathOrDie.png */,
+				CD54F65F1342851900BBC340 /* minus.png */,
+				CD54F6601342851900BBC340 /* multiply.png */,
+				CD54F6611342851900BBC340 /* plus.png */,
+				CD54F6621342851900BBC340 /* sum.png */,
+				CD54F642134284F800BBC340 /* 0.png */,
+				CD54F643134284F800BBC340 /* 1.png */,
+				CD54F644134284F800BBC340 /* 2.png */,
+				CD54F645134284F800BBC340 /* 3.png */,
+				CD54F646134284F800BBC340 /* 4.png */,
+				CD54F647134284F800BBC340 /* 5.png */,
+				CD54F648134284F800BBC340 /* 6.png */,
+				CD54F649134284F800BBC340 /* 7.png */,
+				CD54F64A134284F800BBC340 /* 8.png */,
+				CD54F64B134284F800BBC340 /* 9.png */,
 				CD3B8CF1125C8E9800FBEA66 /* mathOrDie.png */,
 				CDEF22B21257444E00D8222D /* OF_Leaf_Circle_Small.png */,
-				CD406A02123C1B73006B068B /* LogoMoogu.png */,
-				CD406A03123C1B73006B068B /* mathOrDie-about.png */,
-				CD406A05123C1B73006B068B /* mathOrDie-setup.png */,
-				CD406A07123C1B73006B068B /* Icon.png */,
-				CD406A12123C1B73006B068B /* arrow-answer-selected.png */,
-				CD406A13123C1B73006B068B /* arrow-answer.png */,
-				CD406A14123C1B73006B068B /* back-red.png */,
-				CD406A15123C1B73006B068B /* back-white.png */,
-				CD406A17123C1B73006B068B /* mathOrDie-game.png */,
-				CD406A18123C1B73006B068B /* mathOrDie-highScores-select.png */,
-				CD406A19123C1B73006B068B /* mathOrDie-setup-selection.png */,
-				CD406A1F123C1B73006B068B /* Default.png */,
 			);
 			name = Images;
 			sourceTree = "<group>";
@@ -5581,18 +5614,6 @@
 				CD4069FC123C1B41006B068B /* AboutController.xib in Resources */,
 				CD4069FD123C1B41006B068B /* RecordController.xib in Resources */,
 				CD4069FE123C1B41006B068B /* SetupController.xib in Resources */,
-				CD406A20123C1B73006B068B /* LogoMoogu.png in Resources */,
-				CD406A21123C1B73006B068B /* mathOrDie-about.png in Resources */,
-				CD406A23123C1B73006B068B /* mathOrDie-setup.png in Resources */,
-				CD406A25123C1B73006B068B /* Icon.png in Resources */,
-				CD406A30123C1B73006B068B /* arrow-answer-selected.png in Resources */,
-				CD406A31123C1B73006B068B /* arrow-answer.png in Resources */,
-				CD406A32123C1B73006B068B /* back-red.png in Resources */,
-				CD406A33123C1B73006B068B /* back-white.png in Resources */,
-				CD406A35123C1B73006B068B /* mathOrDie-game.png in Resources */,
-				CD406A36123C1B73006B068B /* mathOrDie-highScores-select.png in Resources */,
-				CD406A37123C1B73006B068B /* mathOrDie-setup-selection.png in Resources */,
-				CD406A3D123C1B73006B068B /* Default.png in Resources */,
 				CD406A49123C1CFD006B068B /* MathOrDieViewController.xib in Resources */,
 				CD0AA872125672C400775EDA /* OFSmartObject.inl in Resources */,
 				CD0AA87F125672C400775EDA /* OFISerializer.inl in Resources */,
@@ -5954,6 +5975,29 @@
 				CDEF22B51257444E00D8222D /* OF_Leaf_Circle_Small.png in Resources */,
 				CD29D5DF125BBCC9000FC05A /* openfeint_offline_config.xml in Resources */,
 				CD3B8CF2125C8E9800FBEA66 /* mathOrDie.png in Resources */,
+				CD54F64C134284F800BBC340 /* 0.png in Resources */,
+				CD54F64D134284F800BBC340 /* 1.png in Resources */,
+				CD54F64E134284F800BBC340 /* 2.png in Resources */,
+				CD54F64F134284F800BBC340 /* 3.png in Resources */,
+				CD54F650134284F800BBC340 /* 4.png in Resources */,
+				CD54F651134284F800BBC340 /* 5.png in Resources */,
+				CD54F652134284F800BBC340 /* 6.png in Resources */,
+				CD54F653134284F800BBC340 /* 7.png in Resources */,
+				CD54F654134284F800BBC340 /* 8.png in Resources */,
+				CD54F655134284F800BBC340 /* 9.png in Resources */,
+				CD54F6631342851900BBC340 /* mathOrDie-about.png in Resources */,
+				CD54F6641342851900BBC340 /* mathOrDie-base.png in Resources */,
+				CD54F6651342851900BBC340 /* mathOrDie-game.png in Resources */,
+				CD54F6661342851900BBC340 /* mathOrDie-highScores-select.png in Resources */,
+				CD54F6671342851900BBC340 /* mathOrDie-highScores.png in Resources */,
+				CD54F6681342851900BBC340 /* Default.png in Resources */,
+				CD54F6691342851900BBC340 /* mathOrDie-setup-selection.png in Resources */,
+				CD54F66A1342851900BBC340 /* mathOrDie-setup.png in Resources */,
+				CD54F66B1342851900BBC340 /* mathOrDie.png in Resources */,
+				CD54F66C1342851900BBC340 /* minus.png in Resources */,
+				CD54F66D1342851900BBC340 /* multiply.png in Resources */,
+				CD54F66E1342851900BBC340 /* plus.png in Resources */,
+				CD54F66F1342851900BBC340 /* sum.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
