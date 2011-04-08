@@ -34,7 +34,9 @@
 	[UIView setAnimationDuration:1];
 	[UIView setAnimationCurve:UIViewAnimationCurveEaseInOut];
 	[UIView setAnimationTransition: UIViewAnimationTransitionFlipFromLeft forView:self.view cache:YES];
-	
+
+	[adMobAd removeFromSuperview];  // remove the adds if game is being loaded
+    
 	[self.view addSubview:playViewController.view];
 	[UIView commitAnimations];	
 	
@@ -57,6 +59,7 @@
 	[UIView setAnimationCurve:UIViewAnimationCurveEaseInOut];
 	[UIView setAnimationTransition: UIViewAnimationTransitionFlipFromLeft forView:self.view cache:YES];
 	
+    [adMobAd removeFromSuperview];  // remove the adds if game is being loaded
 	[self.view addSubview:aboutViewController.view];
 	
 	[UIView commitAnimations];	
@@ -78,7 +81,7 @@
 	[UIView setAnimationCurve:UIViewAnimationCurveEaseInOut];
 	[UIView setAnimationTransition: UIViewAnimationTransitionFlipFromLeft forView:self.view cache:YES];
 	
-	
+	[adMobAd removeFromSuperview];  // remove the adds if game is being loaded
 	[self.view addSubview:setupViewController.view];
 	
 	[UIView commitAnimations];	
