@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>7A860D2B-F109-46E6-B7C5-BA0EA0D6479D</string>
+	<key>IDESourceControlProjectName</key>
+	<string>brainnumbers</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>F7997052-169C-4AF7-B3FA-803FE3F23438</key>
+		<string>https://github.com/patricksan/brainNumbers.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>brainnumbers/brainnumbers.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>F7997052-169C-4AF7-B3FA-803FE3F23438</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/patricksan/brainNumbers.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>F7997052-169C-4AF7-B3FA-803FE3F23438</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>F7997052-169C-4AF7-B3FA-803FE3F23438</string>
+			<key>IDESourceControlWCCName</key>
+			<string>brainNumbers2</string>
+		</dict>
+	</array>
+</dict>
+</plist>
